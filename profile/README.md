@@ -12,7 +12,6 @@ The [website](https://brokenscope.com/) serves as the public face of the communi
 - Past investigations
 - Profiles of threat actors and cybercriminals
 - Insights into law enforcement organizations
-- Educational content for new and experienced investigators
 
 ### 💬 Coordination (Discord)
 Our dedicated [Discord server](https://discord.gg/S5ctkdBc) is the heart of the community. It enables real-time communication and coordination for:
