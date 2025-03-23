@@ -46,7 +46,7 @@ Whether you're a developer, analyst, or just getting started—you're welcome he
 
 ## 🚀 Get Involved
 
-- Join the discussion on **Discord** *(invite link coming soon)*  
+- Join the discussion on **[Discord](https://discord.gg/S5ctkdBc)**
 - Explore and contribute to our tools and projects right here on **GitHub**  
 - Stay updated through the **[website](https://brokenscope.com/)**  
 
