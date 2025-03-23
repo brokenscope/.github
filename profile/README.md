@@ -1,12 +1,53 @@
-## Hi there 👋
+# BrokenScope
 
-<!--
+**BrokenScope** is a growing community and platform for cybercrime investigators, developers, and cybersecurity professionals. It’s designed to foster collaboration, research, and tool development in the fight against cybercrime.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌐 Core Pillars
+
+### 🖥️ Visualization (Web)
+The [website](https://brokenscope.com/) serves as the public face of the community, featuring:
+
+- Past investigations
+- Profiles of threat actors and cybercriminals
+- Insights into law enforcement organizations
+- Educational content for new and experienced investigators
+
+### 💬 Coordination (Discord)
+Our dedicated [Discord server](https://discord.gg/S5ctkdBc) is the heart of the community. It enables real-time communication and coordination for:
+
+- Researchers and investigators
+- Developers and toolmakers
+- Collaborative projects and knowledge sharing
+
+### 🛠️ Contribution (GitHub)
+This GitHub organization is the central hub for:
+
+- Project documentation
+- Open-source tools and utilities
+- Investigation data
+
+We aim to keep all work open, transparent, and accessible to support the broader cybersecurity community.
+
+---
+
+## 🎯 Mission
+
+BrokenScope’s mission is to empower cybercrime investigators and threat researchers through:
+
+- Open collaboration  
+- Accessible, high-quality resources  
+- A strong, community-driven approach  
+
+Whether you're a developer, analyst, or just getting started—you're welcome here.
+
+---
+
+## 🚀 Get Involved
+
+- Join the discussion on **Discord** *(invite link coming soon)*  
+- Explore and contribute to our tools and projects right here on **GitHub**  
+- Stay updated through the **[website](https://brokenscope.com/)**  
+
+We’re building this together—one investigation at a time.
