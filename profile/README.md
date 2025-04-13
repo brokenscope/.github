@@ -14,7 +14,7 @@ The [website](https://brokenscope.com/) serves as the public face of the communi
 - Insights into law enforcement organizations
 
 ### 💬 Coordination (Discord)
-Our dedicated [Discord server](https://discord.gg/S5ctkdBc) is the heart of the community. It enables real-time communication and coordination for:
+Our dedicated [Discord server](https://discord.gg/WNRTXYa2ZA) is the heart of the community. It enables real-time communication and coordination for:
 
 - Researchers and investigators
 - Developers and toolmakers
@@ -45,7 +45,7 @@ Whether you're a developer, analyst, or just getting started—you're welcome he
 
 ## 🚀 Get Involved
 
-- Join the discussion on **[Discord](https://discord.gg/S5ctkdBc)**
+- Join the discussion on **[Discord](https://discord.gg/WNRTXYa2ZA)**
 - Explore and contribute to our tools and projects right here on **GitHub**  
 - Stay updated through the **[website](https://brokenscope.com/)**  
 
